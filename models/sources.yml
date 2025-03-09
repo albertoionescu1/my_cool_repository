@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    database: mymanualproject-452914
+    schema: ManualDataset
+    tables:
+      - name: Activity
+      - name: Customers
+      - name: AcqOrders
